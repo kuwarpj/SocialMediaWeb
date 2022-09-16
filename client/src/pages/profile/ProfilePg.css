@@ -1,0 +1,16 @@
+.ProfilePg{
+    position: relative;
+    display: grid;
+    grid-template-columns: 22rem auto 20rem;
+    gap: 1rem;
+
+padding: 10px;
+
+}
+
+.profile-center{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
